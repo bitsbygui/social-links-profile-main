@@ -87,12 +87,12 @@ body{
     border-radius: 10px;
     background-color: var(--Grey);
     color: var(--White);
-    font-weight: 600;
+    font-weight: 700;
     padding: 0 24px;
-    transition: background-color 0.5s;
+    transition: all 0.5s;
 }
 
 .btn:hover {
-    background-color: var(--OffBlack);
-    color: var(--Green);
+    background-color: var(--Green);
+    color: var(--OffBlack);
 }
